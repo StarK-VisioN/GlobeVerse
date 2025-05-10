@@ -1,12 +1,33 @@
-# React + Vite
+# 🌍 GlobeVerse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GlobeVerse** is an interactive, real-time, location-based social platform that allows users to explore and engage with stories, experiences, and cultural moments shared by people around the world.
 
-Currently, two official plugins are available:
+Built using the powerful combination of **React**, and **Axios**, GlobeVerse delivers a dynamic map interface where users can pin their thoughts, photos, and memories—creating a global mosaic of life.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌐 Explore content shared by others across the globe
+- 🧭 Seamless interaction between frontend
+- 🔧 Scalable codebase for adding filters, reactions, and more
+
+---
+
+## 🛠 Tech Stack
+
+| Layer       | Tech Used                            |
+|-------------|--------------------------------------|
+| **Frontend**| React, Vite, Tailwind CSS            |
+| **Deploy**  | Render.com                           |
+
+---
+
+## 📍 Live Demo
+🔗 Deployed Link – https://globeverse.onrender.com/
+
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/StarK-VisioN/GlobeVerse.git
+cd GlobeVerse
