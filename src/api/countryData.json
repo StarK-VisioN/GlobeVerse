@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": "1.4 billion",
+      "interestingFact": "India is the birthplace of chess, yoga, and the decimal system."
+    },
+    {
+      "id": 2,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": "26 million",
+      "interestingFact": "Australia is home to more kangaroos than people."
+    },
+    {
+      "id": 3,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": "125 million",
+      "interestingFact": "Japan has more than 80,000 people over the age of 100."
+    },
+    {
+      "id": 4,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": "215 million",
+      "interestingFact": "Brazil has the largest rainforest in the world – the Amazon."
+    },
+    {
+      "id": 5,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": "144 million",
+      "interestingFact": "Russia spans 11 time zones across two continents."
+    },
+    {
+      "id": 6,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": "39 million",
+      "interestingFact": "Canada has more lakes than the rest of the world's lakes combined."
+    },
+    {
+      "id": 7,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": "110 million",
+      "interestingFact": "The Great Pyramid of Giza is the only remaining wonder of the ancient world."
+    },
+    {
+      "id": 8,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": "1.4 billion",
+      "interestingFact": "China is home to the world’s largest man-made structure – the Great Wall."
+    },
+    {
+      "id": 9,
+      "countryName": "Iceland",
+      "capital": "Reykjavík",
+      "population": "375,000",
+      "interestingFact": "Iceland uses almost 100% renewable energy for its electricity needs."
+    },
+    {
+      "id": 10,
+      "countryName": "Switzerland",
+      "capital": "Bern",
+      "population": "8.8 million",
+      "interestingFact": "Switzerland is home to the world’s longest tunnel – the Gotthard Base Tunnel."
+    }
+  ]
+  

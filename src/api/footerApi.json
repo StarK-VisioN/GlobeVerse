@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",      
+      "title": "Find us",
+      "details": "Chh. SambhajiNagar, Maharashtra"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "7588469240"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "niraj.hatote@gmail.com"
+    }
+  ]
