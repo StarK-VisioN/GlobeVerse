@@ -36,7 +36,7 @@ function Footer() {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2024, All Right Reserved
-                <NavLink to="/" target="_blank">
+                <NavLink to="/" >
                   GlobeVerse
                 </NavLink>
               </p>
@@ -51,7 +51,6 @@ function Footer() {
                 <li>
                   <NavLink
                     to="about"
-                    target="_blank"
                   >
                     About
                   </NavLink>
@@ -59,7 +58,6 @@ function Footer() {
                 <li>
                   <NavLink
                     to="country"
-                    target="_blank"
                   >
                     Country
                   </NavLink>
