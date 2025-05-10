@@ -26,7 +26,7 @@ function SearchFilter({search, setSearch, filter, setFilter, countries, setCount
                 placeholder="search"
                 value={search}
                 onChange={handleInputChange}
-                autoFocus
+                className="border border-gray-300 px-2 py-1 focus:outline-none focus:border-blue-500"
             />
         </div>
 
