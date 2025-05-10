@@ -3,7 +3,7 @@ import Country from './pages/Country'
 import About from './pages/About'
 import Home from './pages/Home'
 import Contact from './pages/Contact'
-import Layout from './components/AppLayout/layout'
+import Layout from './components/AppLayout/Layout'
 import ErrorPage from './pages/ErrorPage'
 import CountryDetails from './components/AppLayout/CountryDetails'
 
