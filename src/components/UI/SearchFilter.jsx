@@ -26,6 +26,7 @@ function SearchFilter({search, setSearch, filter, setFilter, countries, setCount
                 placeholder="search"
                 value={search}
                 onChange={handleInputChange}
+                autoFocus
             />
         </div>
 
