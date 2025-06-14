@@ -18,7 +18,7 @@ Built using the powerful combination of **React**, and **Axios**, GlobeVerse del
 
 | Layer       | Tech Used                            |
 |-------------|--------------------------------------|
-| **Frontend**| React, Vite, Tailwind CSS            |
+| **Frontend**| React, Vite, CSS                     |
 | **Deploy**  | Render.com                           |
 
 ---
